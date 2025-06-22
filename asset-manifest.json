@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calreact/static/css/main.616dad72.css",
+    "main.js": "/calreact/static/js/main.b805dca5.js",
+    "static/js/453.e310a66a.chunk.js": "/calreact/static/js/453.e310a66a.chunk.js",
+    "index.html": "/calreact/index.html",
+    "main.616dad72.css.map": "/calreact/static/css/main.616dad72.css.map",
+    "main.b805dca5.js.map": "/calreact/static/js/main.b805dca5.js.map",
+    "453.e310a66a.chunk.js.map": "/calreact/static/js/453.e310a66a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.616dad72.css",
+    "static/js/main.b805dca5.js"
+  ]
+}
